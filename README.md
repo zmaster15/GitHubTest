@@ -32,7 +32,7 @@
 * **What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)**
   - The AI Symptom Checker was something that truly set the company apart from the competitors in the space. This product was responsible for recruiting 60% of traffic to the site. Additionally, the educational content/ articles, that users were funneled into post Symptom Checker diagnosis, also independently recruited 30% of the traffic. These products together created an informed and higher intent consumer for the health care and services that were available on Buoy’s healthcare marketplace.
    
-![AI Symptom Checker](AISymtomchecker.png)
+![AI Symptom Checker](AISymtomChecker.png)
 
 * **Which technologies are they currently using, and how are they implementing them?**
   - The Symptom Checker employed a variety of AI components. Rules based AI, NLP, Machine Learning trained agents, knowledge graphs, and Bayesian models. 
