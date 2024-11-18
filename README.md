@@ -30,7 +30,9 @@
   - Any consumer inflicted with a potential health concern or issue, and has turned to the internet as a resource to educate themselves or find care is a customer. According to data from the Pew Research, about 80% of adult internet users in the US search for health information online, which translates to approximately 6% of internet users on a typical day. BuoyHealth in its prime reported receiving traffic of ~ 4 Million users / day that visited the site.
 
 * **What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)**
-  - The AI Symptom Checker was something that truly set the company apart from the competitors in the space. This product was responsible for recruiting 60% of traffic to the site. Additionally, the educational content/ articles, that users were funneled into post Symptom Checker diagnosis, also independently recruited 30% of the traffic. These products together created an informed and higher intent consumer for the health care and services that were available on Buoy’s healthcare marketplace. 
+  - The AI Symptom Checker was something that truly set the company apart from the competitors in the space. This product was responsible for recruiting 60% of traffic to the site. Additionally, the educational content/ articles, that users were funneled into post Symptom Checker diagnosis, also independently recruited 30% of the traffic. These products together created an informed and higher intent consumer for the health care and services that were available on Buoy’s healthcare marketplace.
+   
+![AI Symptom Checker](AISymtomchecker.png)
 
 * **Which technologies are they currently using, and how are they implementing them?**
   - The Symptom Checker employed a variety of AI components. Rules based AI, NLP, Machine Learning trained agents, knowledge graphs, and Bayesian models. 
