@@ -1,6 +1,8 @@
 
 # AI Case Study:
 
+![BuoyHealth logo](BuoyHealth.png)
+
 ## Overview and Origin
 
 * **Name of company**
@@ -33,11 +35,11 @@
 * **Which technologies are they currently using, and how are they implementing them?**
   - The Symptom Checker employed a variety of AI components. Rules based AI, NLP, Machine Learning trained agents, knowledge graphs, and Bayesian models. 
   - The Symptom Search at the beginning of the AI Symptom Checker involves:
-    	1. **Predictive Text:** User gets type ahead search suggestions based on machine learning models trained on search data. 
-    	2. **Natural Language Processing (NLP):** Based on the users inputs or selections, converted it to structured data. *Eg. “I have a headache and fever”,* which the system identifies keywords of interest from *(eg. ‘Headache’, ‘fever’)*
-    	3. **Alarm Agents:** Rules based on triage protocols. Incase the user provided inputs indicated that a health emergency was at play and the user should immediately call 911.
-    	4. **Diagnosis Agents:** The agent uses knowledge graphs to match clinical information (symptoms, risk factors, etc) to potential diagnoses, drawing on thousands of data points from medical literature and case studies, to generate a differential diagnosis and feed into the Bayesian model. 
-	    5. **Bayesian Statistical Model:** The model was employed for its ability to probabilistically diagnose the symptoms. A nice short video explaination of Bayesian Statistics for Dummies can be found on [YouTube](https://www.youtube.com/watch?v=Oo-OrePF2dc&ab_channel=QuantPsych).
+    1. **Predictive Text:** User gets type ahead search suggestions based on machine learning models trained on search data.
+    2. **Natural Language Processing (NLP):** Based on the users inputs or selections, converted it to structured data. *Eg. “I have a headache and fever”,* which the system identifies keywords of interest from *(eg. ‘Headache’, ‘fever’)*
+    3. **Alarm Agents:** Rules based on triage protocols. Incase the user provided inputs indicated that a health emergency was at play and the user should immediately call 911.
+    4. **Diagnosis Agents:** The agent uses knowledge graphs to match clinical information (symptoms, risk factors, etc) to potential diagnoses, drawing on thousands of data points from medical literature and case studies, to generate a differential diagnosis and feed into the Bayesian model.
+    5. **Bayesian Statistical Model:** The model was employed for its ability to probabilistically diagnose the symptoms. A nice short video explaination of Bayesian Statistics for Dummies can be found on [YouTube](https://www.youtube.com/watch?v=Oo-OrePF2dc&ab_channel=QuantPsych).
 
 
 ## Landscape
